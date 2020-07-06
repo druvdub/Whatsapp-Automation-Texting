@@ -1,0 +1,9 @@
+USE an IDE to edit the Script and replace the essential parts with the message you want to send and the target username
+
+
+
+#Also read the comments to understand the Code
+#command to install selenium
+
+
+python -m pip install -U selenium
