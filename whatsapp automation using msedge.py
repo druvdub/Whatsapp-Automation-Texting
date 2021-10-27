@@ -7,7 +7,7 @@ import time
 
 # Replace below path with the absolute path 
 # to msedge in your computer 
-driver = webdriver.Edge('C:\Users\Dhruv\Desktop\New folder\msedgedriver.exe') 
+driver = webdriver.Edge('.\msedgedriver.exe') 
 
 driver.get("https://web.whatsapp.com/") 
 wait = WebDriverWait(driver, 600) 
